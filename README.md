@@ -28,4 +28,4 @@ For finer control over which blocks are hand-breakable or which items count as t
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Built on [EarlyStage](https://github.com/Globox1997/EarlyStage) by Globox_Z and [Never Punching Trees](https://www.curseforge.com/minecraft/mc-mods/never-punching-trees) by 96_Leaf, both MIT. See [ATTRIBUTIONS](ATTRIBUTIONS) for the full breakdown of what came from where.
+MIT — see [LICENSE](LICENSE). Built on [EarlyStage](https://github.com/Globox1997/EarlyStage) by Globox_Z and [Never Punching Trees](https://github.com/96Leaf/NeverPunchingTrees) by 96_Leaf, both MIT. See [ATTRIBUTIONS](ATTRIBUTIONS) for the full breakdown of what came from where.

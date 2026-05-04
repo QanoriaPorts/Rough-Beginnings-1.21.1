@@ -19,6 +19,7 @@ EarlyStage
 
 Never Punching Trees
   Author:  96_Leaf
+  Source:  https://github.com/96Leaf/NeverPunchingTrees
   CurseForge: https://www.curseforge.com/minecraft/mc-mods/never-punching-trees
   License: MIT
   Notes:   Block-breaking restriction logic ported and adapted. Tag namespace

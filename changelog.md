@@ -34,6 +34,6 @@ First public release. NeoForge 1.21.1.
 
 ### Credits
 - [EarlyStage](https://github.com/Globox1997/EarlyStage) by Globox_Z (MIT)
-- [Never Punching Trees](https://www.curseforge.com/minecraft/mc-mods/never-punching-trees) by 96_Leaf (MIT)
+- [Never Punching Trees](https://github.com/96Leaf/NeverPunchingTrees) by 96_Leaf (MIT)
 
 See [ATTRIBUTIONS](ATTRIBUTIONS) for what was kept, modified, or removed from each.
