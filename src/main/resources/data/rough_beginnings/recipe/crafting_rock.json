@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "dd"
+    ],
+    "key": {
+        "d": {
+            "item": "rough_beginnings:rock"
+        }
+    },
+    "result": {
+        "id": "rough_beginnings:crafting_rock"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "rough_beginnings:flint_axe",
+            "rough_beginnings:flint_hoe",
+            "rough_beginnings:flint_pickaxe",
+            "rough_beginnings:flint_shovel",
+            "rough_beginnings:flint_sword"
+        ]
+    },
+    "criteria": {
+        "got_the_flint": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:flint"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

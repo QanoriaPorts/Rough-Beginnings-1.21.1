@@ -1,0 +1,17 @@
+{
+  "item.rough_beginnings.item_group": "Ранняя Стадия",
+
+  "item.rough_beginnings.flint_sword": "Кремневый меч",
+  "item.rough_beginnings.flint_shovel": "Кремневая лопата",
+  "item.rough_beginnings.flint_pickaxe": "Кремневая кирка",
+  "item.rough_beginnings.flint_axe": "Кремневый топор",
+  "item.rough_beginnings.flint_hoe": "Кремневая мотыга",
+
+  "block.rough_beginnings.rock": "Камень",
+  "block.rough_beginnings.sieve": "Сито",
+  "block.rough_beginnings.crafting_rock": "Каменный верстак",
+  "block.rough_beginnings.crafting_rock.tooltip": "§7Ударьте по нему камнем несколько раз, чтобы создать предметы",
+
+  "rough_beginnings.moreinfo.tooltip": "Удерживайте [%1$s] для сводки",
+  "rough_beginnings.tooltip.keyShift": "Shift"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "rough_beginnings:plant_fiber"
+        }
+    ],
+    "result": {
+        "id": "rough_beginnings:plant_string",
+        "count": 2
+    }
+}

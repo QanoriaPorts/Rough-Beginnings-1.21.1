@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:dirt",
+    "#minecraft:sand",
+    "#minecraft:leaves",
+    "#minecraft:torches",
+    "#minecraft:flowers",
+    "#minecraft:saplings",
+    "#minecraft:mushrooms",
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "minecraft:packed_mud",
+    { "id": "#c:sands", "required": false },
+    { "id": "#c:gravels", "required": false },
+    { "id": "salt:salt_block", "required": false }
+  ]
+}

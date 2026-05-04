@@ -1,0 +1,30 @@
+Rough Beginnings is built on code from two MIT-licensed mods. Both upstream
+authors retain copyright on their respective contributions.
+
+EarlyStage
+  Author:  Globox_Z
+  Source:  https://github.com/Globox1997/EarlyStage
+  Modrinth: https://modrinth.com/mod/earlystage
+  CurseForge: https://www.curseforge.com/minecraft/mc-mods/earlystage
+  License: MIT
+  Notes:   Heavily modified for NeoForge 1.21.1. Most of the original feature
+           set has been cut, rewritten, or restyled — the surviving pieces are
+           the rock world feature, sieve mechanic, crafting rock workbench,
+           flint tools, the EXTRA_BLASTING-related code is removed, all bark
+           items removed, all buckets removed, all steel content removed,
+           wooden shield/stone shears removed, ModMenu/Cloth-Config integration
+           replaced with NeoForge ModConfigSpec, EMI integration dropped,
+           deep blast-furnace mixins dropped, beginner-death-count system
+           dropped. Mappings translated from Yarn to Mojmap+Parchment.
+
+Never Punching Trees
+  Author:  96_Leaf
+  Source:  https://github.com/96-Leaf/NeverPunchingTrees
+  License: MIT
+  Notes:   Block-breaking restriction logic ported and adapted. Tag namespace
+           consolidated under rough_beginnings: instead of neverpunchingtrees:.
+           Default breakable/canbreak tag values revised; mud, packed_mud,
+           muddy_mangrove_roots, and moss_block now hand-breakable for
+           consistency with the rest of the dirt family.
+
+The combined work is distributed under MIT (see LICENSE).

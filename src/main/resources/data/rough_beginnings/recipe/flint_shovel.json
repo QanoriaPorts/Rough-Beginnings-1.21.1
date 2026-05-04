@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "d  ",
+        "ep ",
+        "e  "
+    ],
+    "key": {
+        "d": {
+            "item": "minecraft:flint"
+        },
+        "e": {
+            "item": "minecraft:stick"
+        },
+        "p": {
+            "item": "rough_beginnings:plant_string"
+        }
+    },
+    "result": {
+        "id": "rough_beginnings:flint_shovel"
+    }
+}

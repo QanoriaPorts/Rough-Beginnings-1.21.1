@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.roughbeginnings.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "rough_beginnings.refmap.json",
+  "mixins": [
+    "ItemMixin",
+    "PillarBlockMixin",
+    "ShovelItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#rough_beginnings:rock_feature_biomes",
+  "features": "rough_beginnings:rock",
+  "step": "top_layer_modification"
+}

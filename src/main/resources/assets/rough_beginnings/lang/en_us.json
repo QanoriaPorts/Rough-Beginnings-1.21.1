@@ -1,0 +1,24 @@
+{
+    "item.rough_beginnings.item_group": "Rough Beginnings",
+
+    "item.rough_beginnings.flint_sword": "Flint Sword",
+    "item.rough_beginnings.flint_shovel": "Flint Shovel",
+    "item.rough_beginnings.flint_pickaxe": "Flint Pickaxe",
+    "item.rough_beginnings.flint_axe": "Flint Axe",
+    "item.rough_beginnings.flint_hoe": "Flint Hoe",
+
+    "item.rough_beginnings.plant_fiber": "Plant Fiber",
+    "item.rough_beginnings.plant_string": "Plant String",
+
+    "block.rough_beginnings.rock": "Rock",
+    "block.rough_beginnings.sieve": "Sieve",
+    "block.rough_beginnings.crafting_rock": "Crafting Rock",
+    "block.rough_beginnings.crafting_rock.tooltip": "§7Hit it with a rock a few times to craft items",
+
+    "rough_beginnings.moreinfo.tooltip": "Hold [%1$s] for Summary",
+    "rough_beginnings.tooltip.keyShift": "Shift",
+
+    "tag.item.rough_beginnings.rock_items": "Rock Items",
+    "tag.block.rough_beginnings.rock_feature_blocks": "Rock Feature Blocks",
+    "tag.biome.rough_beginnings.rock_feature_biomes": "Rock Feature Biomes"
+}
